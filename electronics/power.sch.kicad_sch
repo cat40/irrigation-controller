@@ -2529,6 +2529,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C424093"
+			(at 52.07 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "1c18d5e4-4361-48ed-91f1-8ed357df407e")
 		)

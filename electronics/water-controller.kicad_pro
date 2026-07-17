@@ -416,13 +416,17 @@
         "uuid": "90ee257d-08bc-4d08-b044-1d51d5c028cf"
       }
     ],
-    "used_designators": "R12,R14,J1,U1-3,SW2,C1-3,C6-10,Y1,#PWR2-5,#PWR10-11,#PWR20,#PWR27-29,#PWR34",
+    "used_designators": "BT1,R1-2,R12,R14,J1,U1-3,SW2,D1,C1-4,C6-10,Y1,#PWR1-8,#PWR10-11,#PWR20,#PWR27-29,#PWR34",
     "variants": []
   },
   "sheets": [
     [
       "90ee257d-08bc-4d08-b044-1d51d5c028cf",
       "Root"
+    ],
+    [
+      "47ecb50e-0b86-4e3d-be53-2ca7be028b00",
+      "Battery Controller and Regulator"
     ]
   ],
   "text_variables": {},

@@ -5177,6 +5177,52 @@
 			)
 		)
 	)
+	(sheet
+		(at 185.42 124.46)
+		(size 81.28 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "47ecb50e-0b86-4e3d-be53-2ca7be028b00")
+		(property "Sheetname" "Battery Controller and Regulator"
+			(at 185.42 123.7484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.sch.kicad_sch"
+			(at 185.42 160.6046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "water-controller"
+				(path "/90ee257d-08bc-4d08-b044-1d51d5c028cf"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

@@ -4450,7 +4450,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://jlc-prod-smt.oss-eu-central-1.aliyuncs.com/smtDataManualFile/8755882719383429120-C7420328.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C8597.pdf"
 			(at 102.87 102.87 0)
 			(hide yes)
 			(show_name no)
